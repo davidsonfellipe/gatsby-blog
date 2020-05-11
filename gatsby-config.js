@@ -16,8 +16,8 @@ module.exports = {
         url: `https://twitter.com/gatsbyjs`,
       },
       {
-        name: `github`,
-        url: `https://github.com/gatsbyjs`,
+        name: `youtube`,
+        url: `https://www.youtube.com/watch?v=8L4IMoQwLIg`,
       },
     ],
   },
